@@ -1,7 +1,7 @@
 # Word Counter Program
 This program asks the user to type a full sentence and then counts how many words it contains.
 
-# Features
+## Features
 - Asks the user to enter a sentence
 - Splits the sentence into words using `split()`
 - Counts the number of words with `len()`
